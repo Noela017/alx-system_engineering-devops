@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell basic and Bash projects
+Shell Redirections and Filters scripts
